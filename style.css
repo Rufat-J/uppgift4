@@ -1,0 +1,27 @@
+body {
+    background-color: bisque;
+    
+}
+
+button {
+    background-color: cadetblue;
+    border-radius: 20%;
+    padding: 10px;
+
+}
+
+.number{
+    font-size: 20px;
+    border: 2px inset rgb(169, 165, 165);
+    background-color: rgb(182, 170, 155);
+    margin-right: 10px;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+button:active {
+    background-color: red;
+}
